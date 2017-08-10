@@ -29,5 +29,5 @@
 
 ## Hungry for More?
 
-- Open up `octocat.py` in your text editor and write a function that will print out the number of legs on an octocat.
+- Open up `tenticles.py` in your text editor and write a function that will print out the number of legs on an octocat.
 - Save, add, commit, and push your work. Check Github to confirm that the updates are reflected in your code.
